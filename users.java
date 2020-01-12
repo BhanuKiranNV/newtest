@@ -1,2 +1,5 @@
 hiam updating in users
-am in master
+<<<<<<< HEAD
+=======
+am in dev branch
+>>>>>>> development
